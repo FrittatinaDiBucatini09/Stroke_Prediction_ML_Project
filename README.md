@@ -3,7 +3,7 @@
 
 Questo progetto implementa diversi modelli di machine learning per la predizione del rischio di ictus (stroke prediction) basati su due dataset clinici:
 * [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-* [Stroke Risk Prediction Dataset based on Literature](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset), chiamato * Stroke Prediction Dataset v2*
+* [Stroke Risk Prediction Dataset based on Literature](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset), chiamato *Stroke Prediction Dataset v2*
 
 
   
@@ -13,7 +13,7 @@ Il notebook `stroke_prediction.ipynb` contiene l'intero workflow: dalla preparaz
 
 ## Struttura del progetto
 
-- <font color="lightblue">**Stroke Prediction Dataset:**</font> 
+<font color="lightblue">**Stroke Prediction Dataset:**</font> 
 * Visualizzazione del dataset
 * Preprocessing dei dati
 * Bilanciamento tramite SMOTEEN
@@ -21,7 +21,7 @@ Il notebook `stroke_prediction.ipynb` contiene l'intero workflow: dalla preparaz
 * Grid Search con cross validation
 * Commento e conclusioni
 
-- <font color="salmon">**Stroke Prediction Dataset v2**</font>
+<font color="salmon">**Stroke Prediction Dataset v2**</font>
 * Visualizzazione del dataset
 * Preprocessing dei dati
 * Costruzione di un modello XGBoost
